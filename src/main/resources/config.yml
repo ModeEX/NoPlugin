@@ -1,0 +1,4 @@
+messages:
+  reload: "&b&l<!> &7You have reloaded the config."
+  usage: "&b&l<!> &7Usage: /noplugin reload."
+  noperm: "&b&l<!> &7You don't have permission to run this command."

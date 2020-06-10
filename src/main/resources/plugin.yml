@@ -1,0 +1,6 @@
+name: Test
+version: ${project.version}
+main: me.modeex.main.Main
+api-version: 1.15.2
+commands:
+  noplugin:
