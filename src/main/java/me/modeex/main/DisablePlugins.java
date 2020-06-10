@@ -31,9 +31,6 @@ public class DisablePlugins implements Listener {
                         config.getString("messages.noperm")));
                 player.playSound(player.getLocation(), Sound.VILLAGER_NO, 1, 1);
             }
-            if(player.hasPermission("noplugin.*")){
-                return;
-            }
         });
     }
 }
